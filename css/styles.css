@@ -15,10 +15,11 @@ body {
 .card {
   margin-top: 25px;
   text-align: left;
-  background-color: pink;
+  background-color:slategrey;
 }
 
 body {
  background-image: url(https://media.giphy.com/media/NzSUEgbTWB7TW/giphy.gif);
  background-color:bisque;
+ font-family: 'Roboto Condensed', sans-serif;
 }
